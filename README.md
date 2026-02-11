@@ -11,16 +11,21 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
 ![The first version of this solution](./screenshots/full_screen_version1.png)
+The first version of this solution.
+
+![The second version of this solution](./screenshots/full_screen_version2.png)
+The second version of this solution.
 
 ### Links
 
-- Live Site URL: [This first version of this solution](https://oliviamodesto.github.io/Frontend_Mentor_Testimonial_grid/)
+- Live Site URL: [This second version of this solution](https://oliviamodesto.github.io/Frontend_Mentor_Testimonial_grid/)
 
 ## My process
 
@@ -33,8 +38,21 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### What I learned
 
-This project allowed me to practice concepts I was already familiar with.
+The following modifications have been implemented:
+
+- section used instead of div
+- introduced article to wrap testimonials
+- introduced p and h2
+- id have been removed
+- added pattern quotation
+- added shadows
+- changed background colors
+- swapped converted px into rem 
 
 ### Continued development
 
 The CSS code could be further refined.
+
+### Acknowledgments
+
+Big Thanks to Frontend Mentor Aman for feedback on the first solution of this challenge.
